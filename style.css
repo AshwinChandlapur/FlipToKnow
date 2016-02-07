@@ -1,19 +1,12 @@
-.carousel slide{
-	margin-right: 100px;
-}
-
 .rowd{
 	background-color: #2e2e2e;
 }
-
-
 
 .intro-message {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
     color:#ffffff;
-
 }
 
 .intro-message > h1 {
@@ -57,8 +50,8 @@
 	height: 427px;
 }
 .flip-container, .frontq ,.backq {
-	width: 320px;
-	height: 427px;
+	width: 640px;
+	height: 426px;
 }
 
 .flipper {
@@ -177,7 +170,7 @@
 }
 
 .row{
-	background-color: #2e2e2e;
+	background-color: #1e1e1e;
 }
 .rows{
 	text-align: center;
